@@ -13,7 +13,7 @@ File 'Code' is the coding file.
 ## Comparison of the result
 
 The original model has a consistent learning rate lr = 0.0002 by default. And the generaed images and loss are shown below:
- ![image](http://github.com/CITS4404-ASSG3/origin_loss.png)
+ ![image](https://github.com/mengmm96/CITS4404-ASSG3/blob/master/origin_loss.png)
  
  The quality of image is not vey good. 
  
