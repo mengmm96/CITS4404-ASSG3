@@ -7,7 +7,7 @@ BY: ZIMIN MENG 22665473
 ## Introduction
 File 'extra.mat' contains 50 custom images and is added in the original data set
 
-File 'Code' is the python file.
+File 'ASSG3_DCGANS_ZIMINM' is the python file.
 
 ## Comparison of the result
 
