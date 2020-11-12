@@ -1,7 +1,8 @@
 # CITS4404-ASSG3
-This is the submission for CITS4404 assignment3 GANs model
+This project applying DCGANs model with using SVHN data set to generate fake house number pictures.
+Additionally, an extra 50 processed house-number pics is added to the original data set to see whether this will infulence the quality of generated fake image.
 
-BY: ZIMIN MENG 22665473
+BY: ZIMIN MENG 
 
 
 ## Introduction
