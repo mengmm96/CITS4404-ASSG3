@@ -1,5 +1,5 @@
 # CITS4404-ASSG3
-This project applying DCGANs model with using SVHN data set [GitHub Pages](http://ufldl.stanford.edu/housenumbers/) to generate fake house number pictures.
+This project applying DCGANs model with using  [SVHN data set](http://ufldl.stanford.edu/housenumbers/) to generate fake house number pictures.
 Additionally, an extra 50 processed house-number pics is added to the original data set to see whether this will infulence the quality of generated fake image.
 
 BY: ZIMIN MENG 
